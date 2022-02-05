@@ -25,4 +25,27 @@ p{
     width: 85%;
 }
 
+ul{
+    color:antiquewhite;
+}
+
+#me{
+    color:antiquewhite;
+    background-color: #012840;
+    width: 400px;
+    height: 40px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    
+}
+
+#photo{
+    padding: 5px;
+   display: flex;
+   justify-content: center;
+}
+
+
 
