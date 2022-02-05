@@ -1,0 +1,28 @@
+body{
+    background-color: #607EA6;
+}
+#name{
+    color:#D5E5F2;
+    background-color: #010A26;
+    padding: 20px;
+    width: 90%;
+}
+
+p{
+    color:#012840;
+    text-align: justify;
+    background-color: #80A2BF;
+    width: 80%;
+    padding: 10px;
+    
+
+}
+
+.title{
+    color:#D5E5F2;
+    background-color: #012840;
+    padding-left: 10px;
+    width: 85%;
+}
+
+

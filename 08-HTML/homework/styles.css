@@ -1,17 +1,29 @@
+body{
+    background-image: url(https://image.freepik.com/foto-gratis/mesa-madera-restaurante-borrosa-fondo_81724-265.jpg?w=740);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
 h1{
-    color: cadetblue;
+    color: cornflowerblue;
 }
 img{
     width: 400px;
 }
 #thirdDiv{
     height: 600px;
-    widht: 500px;
+    max-width: 500px;
     background-color:grey;
     padding: 50px;
     border: 8px solid wheat;
+    margin:0 auto;
 }
 #spanId{
     font-size: 18px;
     margin: 50px;
+}
+.divClass{
+    display: flex ;
+            align-items: center;
+            justify-content: center;
+    flex-direction: column;
 }
