@@ -17,6 +17,29 @@ for(i=0 ; i<10 ; i++){
 
 i=0: las manzanas que tengo
 i<10: las manzanas que quiero (juan las va a contar)
-i++: si juan me dice que faltan manzana le pido otra a pepe
+i++: si juan me dice que faltan manzana le pido otra a pepe.
+
+||:
+
+Ahora yo quiero poner las manzanas en una canasta pero me doy cuenta que hay manzanas de 3 colores distintos, 
+unas color rojo, unas color verde y otras color café.
+Entonces yo le dijo a pepe que me traiga mas manzanas pero ahora le digo a juan que solo si las manzanas son rojas
+Ó verdes las ponga dentro de la canasta, si son de color cafe o de un color distinto, las tire.
+
+if(manzana === verde || manzana === roja){
+    poner manzanas en canasta;
+}
+tirar manzanas.
+
+&&:
+
+Tambien quiero hacer un pure de manzana pero para eso necesito manzanas rojas y grandes, ahora le digo a juan que me pase 
+10 manzanas de la canasta pero solo si son rojas y grandes.
+
+if(manzana === roja && manzana === grande){
+    entregar manzana;
+}
+
+
 
 
