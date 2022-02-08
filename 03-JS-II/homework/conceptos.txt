@@ -40,6 +40,16 @@ if(manzana === roja && manzana === grande){
     entregar manzana;
 }
 
+!: 
+Otra froma en la que podriamos indicarle a juan que considere al pasarme una manzana es decirle que si la manzana no es color café
+me la puede pasar.
+
+if(manzana!= cafe){
+    pasar manzana;
+}
+no pasar manzana
+
+
 
 
 
