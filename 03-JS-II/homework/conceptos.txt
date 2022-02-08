@@ -1,0 +1,22 @@
+
+For:
+
+La palabra for se utiliza para hacer bucle, un bucle es una forma de decir cuando una accion de repite muchas veces
+imaginemos que tenemos dos pequeños robots (que llamaremos pepe y juan) y hacen lo que yo les pida, y yo quiero
+comerme 10 manzanas, entonces yo le digo a pepe que me traiga una manzana de un arbol mientras que a juan le 
+pido que cuente las manzanas que me trae pepe, que cuando sean menos que 10 me diga "faltan manzanas" y cuando sean 
+10 manzanas en total me avise. 
+Lo que pasara es que pepe me traera la primer manzana, juan la contara y como 1 manzana es menos que 10 manzanas
+entonces juan me dira "faltan manzanas", despues yo le dire de nuevo a pepe que me traiga una manzana, posteriormente
+pepe trae la manzana y juan la cuenta, asi sucesivamente hasta que se junten 10 manzanas, cuando pase eso juan me avisara
+y entonces dejare de pedirle manzanas a pepe y ya podre comerme las manzanas.
+
+for(i=0 ; i<10 ; i++){
+    comer manzanas
+}
+
+i=0: las manzanas que tengo
+i<10: las manzanas que quiero (juan las va a contar)
+i++: si juan me dice que faltan manzana le pido otra a pepe
+
+
