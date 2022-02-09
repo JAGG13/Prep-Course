@@ -1,0 +1,6 @@
+Array: 
+
+Si bien una variable es como una caja pequeña donde podemos guardar una sola cosa, como un juguete o un par de zapatos,
+un Array es como un mueble con gabetas donde podemos guardar mas juguetes y cosas distintas en cada gabeta y asi podremos 
+posteriormente en vez de estar apilando cajas y cajas con cosas dentro, solo buscar los objetos que queramos ocupar de ese
+mueble buscando dentro de sus gabetas y nos facilitara mucho el trabajo.
